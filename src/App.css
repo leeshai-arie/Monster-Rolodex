@@ -8,8 +8,8 @@ body {
   -moz-osx-font-smoothing: grayscale;
   background: linear-gradient(
     to left,
-    rgb(28, 224, 119) 0%,
-    rgb(151, 27, 208) 100%
+    rgb(12, 193, 96) 0%,
+    rgba(126, 21, 207, 0.843) 100%
   );
   text-align: center;
 }
